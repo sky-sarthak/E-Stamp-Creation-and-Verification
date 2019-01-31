@@ -1,0 +1,11 @@
+Certificate No. : 1
+Barcode No. : SSSSDDD
+State Name : Nepal
+Stamp Duty : 890
+Stamp Issue Date : 26-01-2019
+Stamp Duty Charge : 20111
+Buyer Name : Sarthak
+Buyer ID No. : 20154004
+Buyer Address : MNNIT
+
+
